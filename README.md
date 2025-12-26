@@ -26,3 +26,4 @@
    ```bash
    git clone https://github.com/твой_ник/tool-bot.git
    cd tool-bot
+   curl ascii.live/rick
